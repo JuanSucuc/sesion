@@ -1,0 +1,2 @@
+1- hacer fork del proyecto
+2- En el archivo html index.html, encontraras una tabla 
